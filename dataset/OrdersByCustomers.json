@@ -21,105 +21,139 @@
 		},
 		"schema": [
 			{
+				"name": "Sales Order",
 				"type": "String"
 			},
 			{
+				"name": "Warehouse",
 				"type": "String"
 			},
 			{
+				"name": "Customer Account",
 				"type": "String"
 			},
 			{
+				"name": "Customer Name",
 				"type": "String"
 			},
 			{
+				"name": "Part Number",
 				"type": "String"
 			},
 			{
+				"name": "Ordered Qty",
 				"type": "String"
 			},
 			{
+				"name": "Outstanding Qty",
 				"type": "String"
 			},
 			{
+				"name": "Delivered Qty",
 				"type": "String"
 			},
 			{
+				"name": "In Stock ",
 				"type": "String"
 			},
 			{
+				"name": "Need By Date",
 				"type": "String"
 			},
 			{
+				"name": "Estimated Completion Date",
 				"type": "String"
 			},
 			{
+				"name": "Order Status",
 				"type": "String"
 			},
 			{
+				"name": "SO Line Number",
 				"type": "String"
 			},
 			{
+				"name": "Customer Purchase Order",
 				"type": "String"
 			},
 			{
+				"name": "Service Call Number",
 				"type": "String"
 			},
 			{
+				"name": "Line Type",
 				"type": "String"
 			},
 			{
+				"name": "Part Description",
 				"type": "String"
 			},
 			{
+				"name": "Line Status",
 				"type": "String"
 			},
 			{
+				"name": "MOD",
 				"type": "String"
 			},
 			{
+				"name": "Dispatch Date",
 				"type": "String"
 			},
 			{
+				"name": "Tracking ID",
 				"type": "String"
 			},
 			{
+				"name": "Transfer Number",
 				"type": "String"
 			},
 			{
+				"name": "Order Reference",
 				"type": "String"
 			},
 			{
+				"name": "PO Profile",
 				"type": "String"
 			},
 			{
+				"name": "Transfer From Warehouse",
 				"type": "String"
 			},
 			{
+				"name": "Available for Collection",
 				"type": "String"
 			},
 			{
+				"name": "Available for Collection Date",
 				"type": "String"
 			},
 			{
+				"name": "Collected By",
 				"type": "String"
 			},
 			{
+				"name": "Collected Date and Time",
 				"type": "String"
 			},
 			{
+				"name": "Model",
 				"type": "String"
 			},
 			{
+				"name": "Serial Number",
 				"type": "String"
 			},
 			{
+				"name": "Delivery Location",
 				"type": "String"
 			},
 			{
+				"name": "Created Date",
 				"type": "String"
 			},
 			{
+				"name": "Order Class",
 				"type": "String"
 			}
 		]
