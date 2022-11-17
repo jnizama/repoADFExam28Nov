@@ -1,0 +1,12 @@
+{
+	"name": "filesOrdersByCustomer",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://datalakefilesexamdp203.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQENGMTQ1QzZGLUQwNUUtNEU4QS1CQTg2LTRENUFBQzc1M0NGOV8zNDI1ZmMxMC02OGUwLTQyNWYtODE4YS0xMDI2OWI3ODNiYjYiDQp9"
+		}
+	}
+}
